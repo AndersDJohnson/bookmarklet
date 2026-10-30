@@ -15,6 +15,6 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "uglify-js": "2.2.x"
+    "uglify-js": "3.19.x"
   }
 }
